@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@espanicon/espanicon-sdk": "file:../espanicon-sdk"
+    "@espanicon/espanicon-sdk": "github:Espanicon/espanicon-sdk"
   }
 }
